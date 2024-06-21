@@ -1,0 +1,2 @@
+2024-06-21 12:27:28,680 - app.config.logger_config - INFO - Request: POST http://localhost:8000/users/
+2024-06-21 12:27:28,698 - app.config.logger_config - INFO - Response: 500
